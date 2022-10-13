@@ -29,7 +29,19 @@ Aqui estão algumas ideias para você começar:
 </div>
   
   ##
+<div> 
+
+ <!--
+    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  -->
+  </div>
+  
+  
 <br><br><br><br>
+
+
 <div style="display: inline_block">
     
   <img talign="center" alt="Nelliel-wallpaper" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a713f64c-41b6-4225-9e80-9db785d90829/df6epe5-ed4f4da1-c39c-49d2-9ae4-f99fd16b9ad0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3MTNmNjRjLTQxYjYtNDIyNS05ZTgwLTlkYjc4NWQ5MDgyOVwvZGY2ZXBlNS1lZDRmNGRhMS1jMzljLTQ5ZDItOWFlNC1mOTlmZDE2YjlhZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dPq5tbWA9NeJXYvEM9KrvZ-b9WNrQDxYOTlBlbfRWtw" height="500" width="1200"> 
