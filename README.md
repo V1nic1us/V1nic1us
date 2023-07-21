@@ -42,5 +42,7 @@ Aqui estão algumas ideias para você começar:
   -->
   
   ![Snake animation](https://github.com/V1nic1us/V1nic1us/blob/output/github-contribution-grid-snake.svg)
+  <br><br><br><br>
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643edd33e27257737491876e?variant=dark&roadmaps=qa%2Cjavascript%2Cbackend%2Ctypescript)](https://roadmap.sh)
 
 </div>
