@@ -2,9 +2,9 @@
 
 Aqui estão algumas ideias para você começar:
 
-- 🔭 Atualmente estou trabalhando em PHP
-- 🌱 Estou aprendendo Javascript, React
-- 🤔 Estou procurando ajuda com Javascript, React
+- 🔭 Atualmente estou trabalhando como QA
+- 🌱 Estou aprendendo Javascript, React, Typescript
+- 🤔 Estou procurando ajuda com React, Typescript
 
 <div align="center">
   <a href="https://github.com/V1nic1us">
