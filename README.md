@@ -40,9 +40,8 @@ Aqui estão algumas ideias para você começar:
   <img talign="center" alt="Nelliel-wallpaper" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a713f64c-41b6-4225-9e80-9db785d90829/df6epe5-ed4f4da1-c39c-49d2-9ae4-f99fd16b9ad0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3MTNmNjRjLTQxYjYtNDIyNS05ZTgwLTlkYjc4NWQ5MDgyOVwvZGY2ZXBlNS1lZDRmNGRhMS1jMzljLTQ5ZDItOWFlNC1mOTlmZDE2YjlhZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dPq5tbWA9NeJXYvEM9KrvZ-b9WNrQDxYOTlBlbfRWtw" height="500" width="1200"> 
   
   -->
-  
-  ![Snake animation](https://github.com/V1nic1us/V1nic1us/blob/output/github-contribution-grid-snake.svg)
-  <br><br><br><br>
   [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643edd33e27257737491876e?variant=dark&roadmaps=qa%2Cjavascript%2Cbackend%2Ctypescript)](https://roadmap.sh)
+  <br><br>
+  ![Snake animation](https://github.com/V1nic1us/V1nic1us/blob/output/github-contribution-grid-snake.svg)
 
 </div>
