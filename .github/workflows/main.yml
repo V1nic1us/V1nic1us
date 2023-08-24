@@ -9,7 +9,7 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    steps:  
+    steps:
       # Snake Animation
       - name: generate-snake-game-from-github-contribution-grid
       - uses: Platane/snk@v3
