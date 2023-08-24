@@ -19,18 +19,19 @@ Aqui estão algumas ideias para você começar:
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Vini-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />          
-  <img align="right" alt="Nel-Palmas" height="150" width="200" style="border-radius:50px;" src="https://media.tenor.com/BIdLVTMDhbcAAAAC/nelliel-bleach.gif">
+  <img align="right" alt="qr-code" height="140" width="140" style="border-radius:50px;" src="https://media0.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif?cid=ecf05e47aagtsl8t7ly61fnbhrb8vgyqxrb0wfuz637fel52&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   </br>
 </div>
+
+##
   
-  ##
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcus-vin%C3%ADcius-541a9b247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <img src="https://komarev.com/ghpvc/?username=V1nic1us&color=blue" alt="Profile views" height="28" />
 </div>
    
-<br><br><br><br>
+<br>
 
 <div style="display: inline_block">
 
