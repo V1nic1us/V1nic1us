@@ -34,6 +34,6 @@ Aqui estão algumas ideias para você começar:
 
 <div style="display: inline_block">
 
-  ![Snake animation](https://github.com/V1nic1us/V1nic1us/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/V1nic1us/V1nic1us/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
