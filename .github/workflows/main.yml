@@ -9,14 +9,15 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    steps:
+    steps:  
       # Snake Animation
+      - name: generate-snake-game-from-github-contribution-grid
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: V1nic1us
           outputs: |
-            dist/github-snake.gif
+            dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
