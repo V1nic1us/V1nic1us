@@ -1,4 +1,4 @@
-## Oiii eu sou a Marcus Vinícius 👋
+## Oiii eu sou o Marcus Vinícius 👋
 
 Aqui estão algumas ideias para você começar:
 
