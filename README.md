@@ -3,8 +3,8 @@
 Aqui estão algumas ideias para você começar:
 
 - 🔭 Atualmente estou trabalhando como QA
-- 🌱 Estou aprendendo Javascript, React, Typescript
-- 🤔 Estou procurando ajuda com React, Typescript
+- 🌱 Estou aprendendo C#, .NET, ASP.NET CORE
+- 🤔 Estou procurando ajuda com React Native, Detox, Selenium, Unity
 
 <div align="center">
   <a href="https://github.com/V1nic1us">
@@ -12,13 +12,14 @@ Aqui estão algumas ideias para você começar:
   <img width="400em" height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1nic1us&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Vini-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />          
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />          
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="right" alt="qr-code" height="140" width="140" style="border-radius:50px;" src="https://media0.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif?cid=ecf05e47aagtsl8t7ly61fnbhrb8vgyqxrb0wfuz637fel52&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   </br>
 </div>
