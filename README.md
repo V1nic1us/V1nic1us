@@ -20,7 +20,6 @@ Aqui estão algumas ideias para você começar:
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />          
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="right" alt="qr-code" height="140" width="140" style="border-radius:50px;" src="https://media0.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif?cid=ecf05e47aagtsl8t7ly61fnbhrb8vgyqxrb0wfuz637fel52&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   </br>
 </div>
 
