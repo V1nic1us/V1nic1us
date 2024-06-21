@@ -28,7 +28,7 @@ Aqui estão algumas ideias para você começar:
 
 ## 🎮 Gaming
 
-![https://steamcommunity.com/profiles/76561198978458942/](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198978458942/)
 
 ## 💬 Social
 
