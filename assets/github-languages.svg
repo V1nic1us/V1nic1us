@@ -1,17 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" role="img" aria-labelledby="title desc">
 <title id="title">GitHub · atividade e linguagens de V1nic1us</title>
-<desc id="desc">GitHub: 2171 contribuições em 365 dias; 86 repositórios com linguagens. Blocos proporcionais à atividade diária. Linguagens: proporção por bytes de código.</desc>
+<desc id="desc">GitHub: 2213 contribuições em 365 dias; 86 repositórios com linguagens. Blocos proporcionais à atividade diária. Linguagens: proporção por bytes de código.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111324"/><stop offset="1" stop-color="#191226"/></linearGradient></defs>
 <rect x="1" y="1" width="1278" height="848" rx="24" fill="url(#bg)" stroke="#352943"/>
 <g font-family="DejaVu Sans, Segoe UI, sans-serif">
 <text x="42" y="43" fill="#c4b5fd" font-size="14" letter-spacing="3">V1nic1us / GITHUB</text>
 <text x="42" y="82" fill="#f8fafc" font-size="26" font-weight="700">Um ano construindo, um dia de cada vez.</text>
 <text x="42" y="110" fill="#a59bb5" font-size="12" letter-spacing="2">ATIVIDADE EM 3D  /  ÚLTIMOS 365 DIAS</text>
-<g class="day" data-date="2025-10-17" data-count="0"><title>2025-10-17: 0 contribuições</title>
-<polygon points="68.00,225.50 75.00,229.00 75.00,232.00 68.00,228.50" fill="#221b2d" />
-<polygon points="75.00,229.00 82.00,225.50 82.00,228.50 75.00,232.00" fill="#292033" />
-<polygon points="75.00,222.00 82.00,225.50 75.00,229.00 68.00,225.50" fill="#30263e" />
-</g>
 <g class="day" data-date="2025-10-18" data-count="0"><title>2025-10-18: 0 contribuições</title>
 <polygon points="51.00,233.50 58.00,237.00 58.00,240.00 51.00,236.50" fill="#221b2d" />
 <polygon points="58.00,237.00 65.00,233.50 65.00,236.50 58.00,240.00" fill="#292033" />
@@ -1812,25 +1807,30 @@
 <polygon points="1027.00,557.40 1034.00,553.90 1034.00,612.50 1027.00,616.00" fill="#5e4877" />
 <polygon points="1027.00,550.40 1034.00,553.90 1027.00,557.40 1020.00,553.90" fill="#77608e" />
 </g>
-<g class="day" data-date="2026-10-13" data-count="32"><title>2026-10-13: 32 contribuições</title>
-<polygon points="1003.00,541.22 1010.00,544.72 1010.00,624.00 1003.00,620.50" fill="#7458b0" />
-<polygon points="1010.00,544.72 1017.00,541.22 1017.00,620.50 1010.00,624.00" fill="#8967cb" />
-<polygon points="1010.00,537.72 1017.00,541.22 1010.00,544.72 1003.00,541.22" fill="#a78bfa" />
+<g class="day" data-date="2026-10-13" data-count="31"><title>2026-10-13: 31 contribuições</title>
+<polygon points="1003.00,542.42 1010.00,545.92 1010.00,624.00 1003.00,620.50" fill="#7458b0" />
+<polygon points="1010.00,545.92 1017.00,542.42 1017.00,620.50 1010.00,624.00" fill="#8967cb" />
+<polygon points="1010.00,538.92 1017.00,542.42 1010.00,545.92 1003.00,542.42" fill="#a78bfa" />
 </g>
 <g class="day" data-date="2026-10-14" data-count="46"><title>2026-10-14: 46 contribuições</title>
 <polygon points="986.00,534.05 993.00,537.55 993.00,632.00 986.00,628.50" fill="#9c59b4" />
 <polygon points="993.00,537.55 1000.00,534.05 1000.00,628.50 993.00,632.00" fill="#b572cd" />
 <polygon points="993.00,530.55 1000.00,534.05 993.00,537.55 986.00,534.05" fill="#d28bea" />
 </g>
-<g class="day" data-date="2026-10-15" data-count="11"><title>2026-10-15: 11 contribuições</title>
-<polygon points="969.00,588.78 976.00,592.28 976.00,640.00 969.00,636.50" fill="#4c3a61" />
-<polygon points="976.00,592.28 983.00,588.78 983.00,636.50 976.00,640.00" fill="#5e4877" />
-<polygon points="976.00,585.28 983.00,588.78 976.00,592.28 969.00,588.78" fill="#77608e" />
+<g class="day" data-date="2026-10-15" data-count="12"><title>2026-10-15: 12 contribuições</title>
+<polygon points="969.00,586.79 976.00,590.29 976.00,640.00 969.00,636.50" fill="#4c3a61" />
+<polygon points="976.00,590.29 983.00,586.79 983.00,636.50 976.00,640.00" fill="#5e4877" />
+<polygon points="976.00,583.29 983.00,586.79 976.00,590.29 969.00,586.79" fill="#77608e" />
 </g>
-<g class="day" data-date="2026-10-16" data-count="5"><title>2026-10-16: 5 contribuições</title>
-<polygon points="952.00,611.35 959.00,614.85 959.00,648.00 952.00,644.50" fill="#4c3a61" />
-<polygon points="959.00,614.85 966.00,611.35 966.00,644.50 959.00,648.00" fill="#5e4877" />
-<polygon points="959.00,607.85 966.00,611.35 959.00,614.85 952.00,611.35" fill="#77608e" />
+<g class="day" data-date="2026-10-16" data-count="44"><title>2026-10-16: 44 contribuições</title>
+<polygon points="952.00,552.06 959.00,555.56 959.00,648.00 952.00,644.50" fill="#9c59b4" />
+<polygon points="959.00,555.56 966.00,552.06 966.00,644.50 959.00,648.00" fill="#b572cd" />
+<polygon points="959.00,548.56 966.00,552.06 959.00,555.56 952.00,552.06" fill="#d28bea" />
+</g>
+<g class="day" data-date="2026-10-17" data-count="3"><title>2026-10-17: 3 contribuições</title>
+<polygon points="935.00,626.15 942.00,629.65 942.00,656.00 935.00,652.50" fill="#4c3a61" />
+<polygon points="942.00,629.65 949.00,626.15 949.00,652.50 942.00,656.00" fill="#5e4877" />
+<polygon points="942.00,622.65 949.00,626.15 942.00,629.65 935.00,626.15" fill="#77608e" />
 </g>
 <text x="1060" y="126" fill="#c4b5fd" font-size="12" text-anchor="middle" letter-spacing="2">RITMO DA SEMANA</text>
 <polygon points="1060.00,219.50 1077.59,227.97 1081.94,247.01 1069.76,262.27 1050.24,262.27 1038.06,247.01 1042.41,227.97" fill="none" stroke="#544065" stroke-dasharray="4 5"/>
@@ -1844,7 +1844,7 @@
 <text x="1012.36" y="344.93" fill="#bcb0cb" font-size="12" text-anchor="middle">Sex</text>
 <text x="952.95" y="270.43" fill="#bcb0cb" font-size="12" text-anchor="middle">Sáb</text>
 <text x="974.15" y="177.54" fill="#bcb0cb" font-size="12" text-anchor="middle">Dom</text>
-<polygon points="1060.00,177.71 1125.71,189.59 1147.74,262.03 1089.89,304.07 1029.19,305.97 1027.63,249.39 1055.95,238.77" fill="#f472b6" fill-opacity="0.35" stroke="#f9a8d4" stroke-width="2"/>
+<polygon points="1060.00,177.71 1125.56,189.71 1147.74,262.03 1089.97,304.24 1025.95,312.71 1027.07,249.52 1055.95,238.77" fill="#f472b6" fill-opacity="0.35" stroke="#f9a8d4" stroke-width="2"/>
 <text x="44" y="516" fill="#c4b5fd" font-size="12" letter-spacing="2">LINGUAGENS MAIS USADAS</text>
 <circle cx="157" cy="648" r="86" fill="none" stroke="#30263e" stroke-width="35"/>
 <circle class="language-slice" cx="157" cy="648" r="86" fill="none" stroke="#c084fc" stroke-width="35" stroke-dasharray="124.2786 540.3539" stroke-dashoffset="0.0000" transform="rotate(-90 157 648)"><title>JavaScript: 23.0%</title></circle>
@@ -1878,8 +1878,8 @@
 <text x="157" y="646" fill="#f8fafc" font-size="32" text-anchor="middle" font-weight="700">86</text>
 <text x="157" y="669" fill="#a59bb5" font-size="11" text-anchor="middle">repositórios</text>
 <text x="44" y="786" fill="#a59bb5" font-size="12" >Linguagens: proporção por bytes de código</text>
-<text x="1240" y="736" fill="#f9a8d4" font-size="30" text-anchor="end" font-weight="700">2.171 contribuições</text>
-<text x="1240" y="766" fill="#bcb0cb" font-size="15" text-anchor="end">212 dias ativos · pico de 55 em um dia</text>
-<text x="44" y="817" fill="#8e819e" font-size="11" >2025-10-17 → 2026-10-16</text>
-<text x="1240" y="817" fill="#8e819e" font-size="11" text-anchor="end">Atualizado: 2026-10-16 16:44 UTC</text>
+<text x="1240" y="736" fill="#f9a8d4" font-size="30" text-anchor="end" font-weight="700">2.213 contribuições</text>
+<text x="1240" y="766" fill="#bcb0cb" font-size="15" text-anchor="end">213 dias ativos · pico de 55 em um dia</text>
+<text x="44" y="817" fill="#8e819e" font-size="11" >2025-10-18 → 2026-10-17</text>
+<text x="1240" y="817" fill="#8e819e" font-size="11" text-anchor="end">Atualizado: 2026-10-17 04:35 UTC</text>
 </g></svg>
